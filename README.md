@@ -38,12 +38,10 @@ Awesome keyword research with constant update with practical information gathere
 - [Google Keyword Planner](http://adwords.google.com/KeywordPlanner)
 - [Google Trend](https://www.google.com.au/trends/)
 - [Ahrefs Site Explorer](https://ahrefs.com/blog/keyword-research/)
-- []()
 ### Niche:
 - [inbound.org](https://inbound.org/)
 - [Growth Hackers](https://growthhackers.com/)
 - [Keyword Shitter](http://keywordshitter.com/)
-- []()
 
 ## Note/Tools Update News
 ### Google Keyword Planner
