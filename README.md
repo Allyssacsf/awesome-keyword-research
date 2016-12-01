@@ -2,31 +2,31 @@
 Awesome keyword research with constant update with practical information gathered daily
 
 ## Steps:
-### Step 1: Make a list of important, relevant topics based on what you know about the business
-### Step 2: Fill in those topic buckets with keywords
-### Step 3: Research related search terms
-### Step 4: Check for a mix of head terms ahd long-tail keywords in each bucket
-### Step 5: See how competitors are ranking for these keywords
-### Step 6: Prioritize Keywords to focus
-- Some of the most attractive, highest-volume keywords also have the least available opportunity
-- Not to let it become too subjective
+- [ ] 1. Make a list of important, relevant topics based on what you know about the business
+- [ ] 2. Fill in those topic buckets with keywords
+- [ ] 3. Research related search terms
+- [ ] 4. Check for a mix of head terms ahd long-tail keywords in each bucket
+- [ ] 5. See how competitors are ranking for these keywords
+- [ ] 6. Prioritize Keywords to focus
+ - Some of the most attractive, highest-volume keywords also have the least available opportunity
+ - Not to let it become too subjective
 
 ## Metrics:
-### Volume (V)
-### Keyword Difficulty (KD)
-### Keyword Opportunity (KO)
-### Importance (I)
-### Keyword Potential(KP) 
+- Volume (V)
+- Keyword Difficulty (KD)
+- Keyword Opportunity (KO)
+- Importance (I)
+- Keyword Potential(KP) 
 
 ## Question to ask:
-### What is the business model?
-### What are searchers curiousity? 
-### Which keywords have the most potential?
-### Where do we start?
-### What is the criteria of good keywords?
-- Relevant
-- High (enough) volume
-- Low difficulty
+1. What is the business model?
+2. What are searchers curiousity? 
+3. Which keywords have the most potential?
+4. Where do we start?
+5. What is the criteria of good keywords?
+ - Relevant
+ - High (enough) volume
+ - Low difficulty
 
 ## Tools:
 ### General:
