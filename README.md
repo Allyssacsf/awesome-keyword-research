@@ -29,7 +29,7 @@ Awesome keyword research with constant update with practical information gathere
  - Low difficulty
 
 ## Tools:
-### General:
+#### General:
 - [Keywords Everywhere](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp/related?hl=en)
 - [Thesaurus.com](http://www.thesaurus.com/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
@@ -38,25 +38,28 @@ Awesome keyword research with constant update with practical information gathere
 - [Google Keyword Planner](http://adwords.google.com/KeywordPlanner)
 - [Google Trend](https://www.google.com.au/trends/)
 - [Ahrefs Site Explorer](https://ahrefs.com/blog/keyword-research/)
-### Niche:
+
+#### Niche:
 - [inbound.org](https://inbound.org/)
 - [Growth Hackers](https://growthhackers.com/)
 - [Keyword Shitter](http://keywordshitter.com/)
 
 ## Note/Tools Update News
-### Google Keyword Planner
+#### Google Keyword Planner
 - Accurate search volumes are no longer available for users with "lower monthly spend" on adwords.
 
 ## Terminology:
-### General
+#### General
 - Domain Authority(DA): 
 - Page Authority(PA): Constant evolving metric that is designed to correlate with a page's ability to rank on Google, based in large part on the page's link profile
-### MOZ KEyword Research Tool
+
+#### MOZ KEyword Research Tool
 - Keyword Difficulty Metric V1: Median of PA
 - Keyword Difficulty Metric V2: Click-through rate(CTR) weighted model of Page Authority across the first page of SERP, reflecting more of the competitive landscape, and adapts to today's irregular organic result counts.Better job of filliung in gaps when PA metrics are missing for one or more results, provide better granularity.
 - Keyword Opportunity metric: [assumption of 100% CTR] - [ clicks based on non-organic features]
 - Keyword Potential= [sqrt(V)] * (1-KD/100) * (KO/100) * I]
-### Ahrefs Keywords Explorer
+
+#### Ahrefs Keywords Explorer
 - Difficulty: metric calculated by an algorithm that scans the first page of Google results and judges how hard it would be to outrank these pages. If the entire first page is held by old stalwarts like Wikipedia, .edu domains and sites with a high domain rating, then you’re going to get back a high difficulty rating (90+). If it’s populated by crap content from domains so harrowed by Google penalties they’re barely indexed, it’ll be low (~10).
 - Low Difficulty: Putting it simply, a keyword with low difficulty has pages and domains with low authority on the first page. If you target the same keyword with better content and get a few backlinks, you can take that slot and steal their traffic.
 
