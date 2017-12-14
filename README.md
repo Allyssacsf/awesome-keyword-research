@@ -5,7 +5,7 @@ Awesome keyword research with constant update with practical information gathere
 - [ ] 1. Make a list of important, relevant topics based on what you know about the business
 - [ ] 2. Fill in those topic buckets with keywords
 - [ ] 3. Research related search terms
-- [ ] 4. Check for a mix of head terms ahd long-tail keywords in each bucket
+- [ ] 4. Check for a mix of head terms and long-tail keywords in each bucket
 - [ ] 5. See how competitors are ranking for these keywords
 - [ ] 6. Prioritize Keywords to focus
  - Some of the most attractive, highest-volume keywords also have the least available opportunity
